@@ -3,7 +3,7 @@
 Today i learned how RedHat operates and the different ends of developement.We also learned how the use Git and Github.We also pished commits our repo.We kept pushing to our orignal repo to get used to the process
 
 
-##Second week at RedHat
+## Second week at RedHat
 
 
 so far today i have just done a recap on last weeks work and i am now shawdowing my buddy Jameel and her team.Her work looks so complicated and frustrating:)
