@@ -86,7 +86,7 @@ body {background-color: lightgrey;}
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: #cc0219;
+    background-color: #4B4B4D;
 }
 
 .dropdown-content {
@@ -116,3 +116,32 @@ body {background-color: lightgrey;}
 }
 
 <body><img src="middle earth.jpg" alt="Talion" style="width:960px;height:540px;"></body>
+
+
+
+
+
+
+}
+.btn-primary.active {
+ color: white;
+ background-color: #A0C4E2 ;
+ border-color: #A0C4E2;
+}
+.btn-primary {
+   color: white;
+   background-color: #B3C5D7;
+   border-color: #B3C5D7;
+}
+.btn-primary:hover:not(.active) {
+   color: white;
+   background-color:#C1CAD6 ;
+   border-color:#C1CAD6;
+}
+
+
+
+
+btn btn-primary {
+    float= right;
+}
