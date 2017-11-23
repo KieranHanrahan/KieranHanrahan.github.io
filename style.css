@@ -69,6 +69,7 @@ body {background-color: lightgrey;}
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    padding: 20px;
 }
 
 .dropdown {
@@ -146,5 +147,6 @@ btn btn-primary {
     float= right;
 }
 
+
 img {
-    padding:1em;
+    padding:1em
